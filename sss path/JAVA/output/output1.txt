@@ -1,0 +1,9 @@
+The sourceNode is: 1
+The path from 1 to 1 is: 1<-1		cost:0
+The path from 1 to 2 is: 2<-3<-1	cost:7
+The path from 1 to 3 is: 3<-1		cost:5
+The path from 1 to 4 is: 4<-3<-1	cost:10
+The path from 1 to 5 is: 5<-4<-3<-1	cost:15
+The path from 1 to 6 is: 6<-4<-3<-1	cost:13
+The path from 1 to 7 is: 7<-8<-2<-3<-1	cost:11
+The path from 1 to 8 is: 8<-2<-3<-1	cost:9

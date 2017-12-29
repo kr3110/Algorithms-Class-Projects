@@ -1,0 +1,13 @@
+d 2 -> 
+d 2 -> f 4 -> 
+d 2 -> f 4 -> h 15 -> 
+d 2 -> f 4 -> k 6 -> h 15 -> 
+d 2 -> f 4 -> k 6 -> h 15 -> m 47 -> 
+d 2 -> f 4 -> k 6 -> h 15 -> p 25 -> m 47 -> 
+w 1 -> d 2 -> f 4 -> k 6 -> h 15 -> p 25 -> m 47 -> 
+wd 3 w d 
+wdf 7 wd f 
+kwdf 13 k wdf 
+kwdfh 28 kwdf h 
+pkwdfh 53 p kwdfh 
+mpkwdfh 100 m pkwdfh 

@@ -1,0 +1,1 @@
+m 47 -> p 25 -> k 6 -> w 1 -> w 1 -> ww 2 -> d 2 -> wwd 4 -> f 4 -> wwdf 8 -> kwwdf 14 -> h 15 -> kwwdfh 29 -> pkwwdfh 54 -> mpkwwdfh 101 -> 
